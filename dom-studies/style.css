@@ -30,12 +30,13 @@
     font-size: 12px;
     text-align: center;
     border-bottom: 1px dotted #ccc;
+    margin-bottom: 10px;
 }
 
 .buttons {
     display: flex;
     justify-content: space-around;
-    margin: 10px 0px;
+    margin: 15px 0px;
 }
 
 button {
@@ -72,7 +73,7 @@ button {
     border: none;
     border-radius: 0;
     cursor: pointer;
-    background-color: rgb(165, 161, 161);
+    background-color: rgb(180, 175, 175);
 }
 
 .red {
